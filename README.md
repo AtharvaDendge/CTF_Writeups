@@ -1,7 +1,7 @@
 # 🏴‍☠️ CTF Writeups by Atharva Dendge
 
 Welcome to my **CTF Writeups Repository** 🚀  
-Here I document my journey through Capture The Flag challenges on platforms like **TryHackMe**, **HackTheBox**, and CTF competitions.  
+Here I document my journey through Capture The Flag challenges on platforms like **TryHackMe** and **HackTheBox** 
 
 Each writeup is structured to showcase **real-world attack methodology** — including **enumeration, exploitation, privilege escalation, and key takeaways**.  
 This not only reflects my problem-solving skills but also demonstrates practical offensive security techniques.
@@ -9,24 +9,20 @@ This not only reflects my problem-solving skills but also demonstrates practical
 ---
 
 ## 📂 Categories
+
 - 🟢 **TryHackMe**
   
-
 - 🔵 **HackTheBox**
-
-
-- 🏆 **Competitions**
-
 
 ---
 
 ## ⚙️ Methodology
 Each writeup follows a consistent format:
-1. **Enumeration** → Initial scanning and reconnaissance  
-2. **Exploitation** → Identifying & leveraging vulnerabilities  
-3. **Privilege Escalation** → Gaining higher-level access  
-4. **Flag Capture** → Final objective  
-5. **Key Takeaways** → What I learned  
+1. **Nmap Result** → Initial scanning and reconnaissance  
+2. **Hidden Directory Search** → Identifying Hidden Paths
+3. **Initial Foothold** → Gaining initial foothold 
+4. **Exploitation** → Exploitataion 
+5. **Privilege Escalation** → Escalating Privilege
 
 ---
 
