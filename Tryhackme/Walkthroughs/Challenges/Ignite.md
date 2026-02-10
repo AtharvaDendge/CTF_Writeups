@@ -1,6 +1,8 @@
-# Room - Ignite
+<h1 align="center">Room - Ignite</h1>
 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/e01ae817-306b-48c0-a778-d3e260c2e5aa" />
+<p align="center">
+  <img width="500" height="500" src="https://tryhackme-images.s3.amazonaws.com/room-icons/676cb3273c613c9ba00688162efc0979.png" />
+</p>
 
 # Nmap Result
 
