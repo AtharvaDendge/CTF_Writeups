@@ -26,3 +26,16 @@ Ferox result is as follow:
 ## Flags Found
 
 <img width="953" height="1725" alt="image" src="https://github.com/user-attachments/assets/ffa306c7-c975-4c5f-b347-e25ac81223b0" />
+
+---
+
+## Author
+
+**Atharva Dendge** 
+
+🔗 LinkedIn: https://www.linkedin.com/in/atharva-balasaheb-dendge/
+
+📌 GitHub: https://github.com/AtharvaDendge
+
+
+
