@@ -18,10 +18,10 @@
 
 # 📘 Note to Readers
 
-<h3>These writeups are designed to document my practical approach to solving cybersecurity labs and challenges. They focus on methodology, decision-making, and the overall attack path rather than explaining every basic concept in full detail.</h3>
+- <h3>These writeups are designed to document my practical approach to solving cybersecurity labs and challenges. They focus on methodology, decision-making, and the overall attack path rather than explaining every basic concept in full detail.</h3>
 
-<h3>A foundational understanding of cybersecurity topics such as networking, Linux/Windows fundamentals, web applications, enumeration, privilege escalation, and common security tools is recommended to fully benefit from these writeups.</h3>
+- <h3>A foundational understanding of cybersecurity topics such as networking, Linux/Windows fundamentals, web applications, enumeration, privilege escalation, and common security tools is recommended to fully benefit from these writeups.</h3>
 
-<h3>To keep the content practical, readable, and focused, not every minute technical detail is expanded step-by-step. Readers are encouraged to research unfamiliar concepts independently and use these writeups as a guide to strengthen their own problem-solving skills.</h3>
+- <h3>To keep the content practical, readable, and focused, not every minute technical detail is expanded step-by-step. Readers are encouraged to research unfamiliar concepts independently and use these writeups as a guide to strengthen their own problem-solving skills.</h3>
 
-<h3>The goal of this repository is not just to show solutions, but to demonstrate hands-on learning, analytical thinking, and continuous growth in offensive security.</h3>
+- <h3>The goal of this repository is not just to show solutions, but to demonstrate hands-on learning, analytical thinking, and continuous growth in offensive security.</h3>
