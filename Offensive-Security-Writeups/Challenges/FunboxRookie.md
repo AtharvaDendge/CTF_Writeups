@@ -1,4 +1,4 @@
-<h1 align="center">Room - FunboxRookie</h1>
+<h1 align="center">Lab - FunboxRookie</h1>
 
 <p align="center">
   <img width="500" height="500" src="https://static.offsec.com/media/lms/content_tags/machines/linux/Non-WEB.svg" />
