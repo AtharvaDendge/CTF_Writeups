@@ -1,36 +1,38 @@
-# 🏴‍☠️ CTF Writeups by Atharva Dendge
+# 🏴‍☠️ Cybersecurity Writeups by Atharva Dendge
 
-Welcome to my **CTF Writeups Repository** 🚀  
-Here I document my journey through Capture The Flag challenges on platforms like **TryHackMe** and **HackTheBox** 
+Welcome to my **Hands-On Cybersecurity Labs Repository** 🚀  
+This repository documents my practical journey through cybersecurity labs, challenges, and hands-on environments from platforms such as **TryHackMe** and **Offensive Security**.
 
-Each writeup is structured to showcase **real-world attack methodology** — including **enumeration, exploitation, privilege escalation, and key takeaways**.  
-This not only reflects my problem-solving skills but also demonstrates practical offensive security techniques.
+Each writeup is structured to showcase a real-world attack methodology — including **enumeration, exploitation & privilege escalation**. These walkthroughs reflect my problem-solving mindset, technical growth, and practical offensive security skills.
 
 ---
 
 ## 📂 Categories
 
-- 🟢 **TryHackMe**
-  
-- 🔵 **HackTheBox**
+- 🟢 **TryHackMe Writeups**
+- 🔴 **Offensive Security Writeups**
 
 ---
 
-## ⚙️ Methodology
-Each writeup follows a consistent format:
-1. **Nmap Result** → Initial scanning and reconnaissance  
-2. **Hidden Directory Search** → Identifying Hidden Paths
-3. **Initial Foothold** → Gaining initial foothold 
-4. **Exploitation** → Exploitataion 
-5. **Privilege Escalation** → Escalating Privilege
+## 📘 Note to Readers
+
+These writeups are focused on methodology and practical workflow. A basic understanding of networking, Linux/Windows fundamentals, web applications, and common security tools is recommended to fully benefit from the content.
+
+The goal is not just to present solutions, but to demonstrate analytical thinking, hands-on learning, and continuous improvement in cybersecurity.
 
 ---
 
 ## ⚠️ Disclaimer
-All writeups are for **educational purposes only**.  
-Do not attempt unauthorized access on any system.
+
+All writeups are created for **educational and authorized lab purposes only**.  
+Room names, images, and platform assets belong to their respective owners.  
+This repository is not affiliated with or endorsed by any platform mentioned.
+
+Do not attempt unauthorized access against any real-world system.
 
 ---
 
-👨‍💻 **Author**: Atharva Dendge  
-🎯 Red Teaming | Offensive Security | CTF Player
+## 👨‍💻 Author
+
+**Atharva Dendge**  
+🎯 Red Teaming | Offensive Security | Continuous Learning
